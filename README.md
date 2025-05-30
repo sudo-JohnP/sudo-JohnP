@@ -4,7 +4,9 @@
 
 
 
-# 👋 Hey there, I'm John
+# Hey there, I'm John Parente
+
+## Who I am
 
 🔐 Cybersecurity student @ Virginia Tech  
 📜 CompTIA Security+ Certified | DoD TS Cleared | Cybersecurity Enthusiast  
@@ -12,7 +14,7 @@
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - 🎓 Completing the [IBM SkillsBuild Cybersecurity Certificate](https://github.com/sudo-JohnP/IBM-Cybersec-Cert)
 - 🐍 Automating small security tasks with Python
@@ -20,7 +22,7 @@
 
 ---
 
-## 🛠️ Core Skills & Traits
+## Core Skills & Traits
 
 - **Python** for scripting, automation, data visualization 
 - Excellent under pressure & committed to team success  
@@ -29,7 +31,7 @@
 
 ---
 
-## 👀 Looking For
+## Looking For
 
 🎯 Opportunities in:
 - **Cloud Security Roles**
@@ -39,20 +41,20 @@
 
 ---
 
-## 📂 Featured Work
+## Featured Works
 
 🔗 [IBM Cybersecurity Projects Repo](https://github.com/sudo-JohnP/IBM-Cybersec-Cert)  
 A growing collection of projects, write-ups, and activities as I progress through IBM’s Cybersecurity Certificate
 
 ---
 
-## 🌐 Connect With Me Via LinkedIn
+## Connect With Me Via LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-parente/)
 
 ---
 
-## 💬 Ask me about
+## Ask me about
 
 - Any cybersecurity news
 - Fun projects I may be able to contribute to
