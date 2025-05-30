@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm John
 
 🔐 Cybersecurity student @ Virginia Tech  
-📜 CompTIA Security+ Certified | Python Enthusiast  
+📜 CompTIA Security+ Certified | DoD TS Cleared |Cybersecurity Enthusiast  
 🧠 Lifelong learner with a wide-lens mindset and a love for solving tough problems under pressure  
 
 ---
@@ -10,7 +10,7 @@
 
 - 🎓 Completing the [IBM SkillsBuild Cybersecurity Certificate](https://github.com/sudo-JohnP/IBM-Cybersec-Cert)
 - 🐍 Automating small security tasks with Python
-- ☁️ Researching cloud security best practices and real-world attack scenarios
+- ☁️ Researching cloud security fundamentals
 
 ---
 
@@ -26,7 +26,7 @@
 ## 👀 Looking For
 
 🎯 Opportunities in:
-- **Cloud Security**
+- **Cloud Security Roles**
 - **SOC Analyst Roles**
 - Or any hands-on cybersecurity internship where I can grow, contribute, and collaborate
 
@@ -35,34 +35,19 @@
 ## 📂 Featured Work
 
 🔗 [IBM Cybersecurity Projects Repo](https://github.com/sudo-JohnP/IBM-Cybersec-Cert)  
-A growing collection of projects, write-ups, and capstones as I progress through IBM’s Cybersecurity Certificate
+A growing collection of projects, write-ups, and activities as I progress through IBM’s Cybersecurity Certificate
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/john-parente/)])
 
 ---
 
-> “Security is not a product, but a process.” – Bruce Schneier  
+## 💬 Ask me about
 
+- Any cybersecurity news
+- Fun projects I may be able to contribute to
+- Any work or growth opportunities
 
-
-
-## Hi there 👋
-
-<!--
-**sudo-JohnP/sudo-JohnP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
