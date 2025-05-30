@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm John
 
 🔐 Cybersecurity student @ Virginia Tech  
-📜 CompTIA Security+ Certified | DoD TS Cleared |Cybersecurity Enthusiast  
+📜 CompTIA Security+ Certified | DoD TS Cleared | Cybersecurity Enthusiast  
 🧠 Lifelong learner with a wide-lens mindset and a love for solving tough problems under pressure  
 
 ---
@@ -16,10 +16,10 @@
 
 ## 🛠️ Core Skills & Traits
 
-- **Python** for scripting and automation  
+- **Python** for scripting, automation, data visualization 
 - Excellent under pressure & committed to team success  
-- Highly observant, methodical, and always learning  
-- Comfortable getting hands-on — from theory to “dirty work”  
+- Highly observant, methodical, and always looking to learning  
+- Willing to do the “dirty work”, never a task beneath me
 
 ---
 
@@ -28,7 +28,8 @@
 🎯 Opportunities in:
 - **Cloud Security Roles**
 - **SOC Analyst Roles**
-- Or any hands-on cybersecurity internship where I can grow, contribute, and collaborate
+- **Research Positions**
+- Or any hands-on cybersecurity opportunities where I can grow, contribute, and collaborate
 
 ---
 
@@ -39,7 +40,7 @@ A growing collection of projects, write-ups, and activities as I progress throug
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me Via LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-parente/)
 
