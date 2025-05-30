@@ -4,9 +4,9 @@
 
 
 
-# Hey there, I'm John Parente
+# 👋 Hey there, I'm John Parente
 
-## Who I am
+## 🧑‍💻 Who I am
 
 🔐 Cybersecurity student @ Virginia Tech  
 📜 CompTIA Security+ Certified | DoD TS Cleared | Cybersecurity Enthusiast  
@@ -41,7 +41,7 @@
 
 ---
 
-## Featured Works
+## 📂 Featured Works
 
 🔗 [IBM Cybersecurity Projects Repo](https://github.com/sudo-JohnP/IBM-Cybersec-Cert)  
 A growing collection of projects, write-ups, and activities as I progress through IBM’s Cybersecurity Certificate
@@ -54,7 +54,7 @@ A growing collection of projects, write-ups, and activities as I progress throug
 
 ---
 
-## Ask me about
+## 🔐 Ask me about
 
 - Any cybersecurity news
 - Fun projects I may be able to contribute to
