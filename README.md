@@ -41,7 +41,7 @@ A growing collection of projects, write-ups, and activities as I progress throug
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([(https://www.linkedin.com/in/john-parente/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-parente/)
 
 ---
 
