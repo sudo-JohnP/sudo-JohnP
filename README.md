@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="John parente.png" alt="John P GitHub Banner" />
+</p>
+
+
+
 # 👋 Hey there, I'm John
 
 🔐 Cybersecurity student @ Virginia Tech  
