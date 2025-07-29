@@ -46,8 +46,8 @@
 ## 📂 Featured Works
 
 🔗 [Multi Cloud Data Transfer](https://github.com/sudo-JohnP/Multi-Cloud-Data-Transfer)  
-This Repo contains a README detailing the project.
-It includes the learning objectives, tools/services used, project steps (including screenshots), results, and demonstrated skills. 
+- This Repo contains a README detailing the project.
+- It includes the learning objectives, tools/services used, project steps (including screenshots), results, and demonstrated skills. 
 
 ---
 
