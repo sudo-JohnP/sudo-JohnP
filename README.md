@@ -45,8 +45,8 @@
 
 ## 📂 Featured Works
 
-🔗 [IBM Cybersecurity Projects Repo](https://github.com/sudo-JohnP/IBM-Cybersec-Cert)  
-A growing collection of projects, write-ups, and activities as I progress through IBM’s Cybersecurity Certificate
+🔗 [Multi Cloud Data Transfer](https://github.com/sudo-JohnP/Multi-Cloud-Data-Transfer)  
+A write up of this multi-cloud data transfer project, including screenshots
 
 ---
 
