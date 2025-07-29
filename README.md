@@ -9,22 +9,23 @@
 ## 🧑‍💻 Who I am
 
 🔐 Cybersecurity student @ Virginia Tech  
-📜 CompTIA Security+ Certified | DoD TS Cleared | Cybersecurity Enthusiast  
+📜 CompTIA Security+ | AWS Certified Cloud Practitioner | DoD TS Cleared | Cybersecurity Enthusiast  
 🧠 Lifelong learner with a wide-lens mindset and a love for solving tough problems under pressure  
 
 ---
 
 ## What I'm Working On
 
-- 🎓 Completing the [IBM SkillsBuild Cybersecurity Certificate](https://github.com/sudo-JohnP/IBM-Cybersec-Cert)
-- 🐍 Automating small security tasks with Python
-- ☁️ Researching cloud security fundamentals
+- 🎓 Projects to reinforce AWS CCP topics
+- 🐍 Looking to start projects related to Cloud/Security Automation with Python
+- ☁️ Continuing to research cloud security fundamentals
 
 ---
 
 ## Core Skills & Traits
 
-- **Python** for scripting, automation, data visualization 
+- **Python** for scripting, automation, data visualization
+- **AWS tools** such as S3, IAM
 - Excellent under pressure & committed to team success  
 - Highly observant, methodical, and always looking to learning  
 - Willing to do the “dirty work”, never a task beneath me
@@ -35,6 +36,7 @@
 
 🎯 Opportunities in:
 - **Cloud Security Roles**
+- **Cloud Consulting Roles**
 - **SOC Analyst Roles**
 - **Research Positions**
 - Or any hands-on cybersecurity opportunities where I can grow, contribute, and collaborate
