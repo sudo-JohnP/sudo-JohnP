@@ -45,11 +45,15 @@
 
 ## 📂 Featured Works
 
-🔗
+🔗 [AWS IAM Policy Audit Script](https://github.com/sudo-JohnP/AWS-IAM-Policy-Audit-Script)
+- Python script that audits risky AWS IAM Policies
+- This Repo contains a README detailing the project as well as a file containing the python script.
+- Demonstrates skills in cloud security, IAM, IAM policy analysis, python scripting, and use of AWS SDK (boto3)
 
 🔗 [Multi Cloud Data Transfer](https://github.com/sudo-JohnP/Multi-Cloud-Data-Transfer)  
-- This Repo contains a README detailing the project.
-- It includes the learning objectives, tools/services used, project steps (including screenshots), results, and demonstrated skills. 
+- This Repo contains a README detailing the project, including the learning objectives, tools/services used, project steps (including screenshots), results, and demonstrated skills.
+- A walkthrough project that sets up data transfer between AWS S3 and Google Cloud Storage using GCP File Transfer Service.
+- Demonstrates knowledge of IAM configuration, cloud storage, and basic cross platform integration
 
 ---
 
