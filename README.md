@@ -45,6 +45,8 @@
 
 ## 📂 Featured Works
 
+🔗 CloudTrail Log Analyzer with Python (Coming Soon!)
+
 🔗 [AWS IAM Policy Audit Script](https://github.com/sudo-JohnP/AWS-IAM-Policy-Audit-Script)
 - Python script that audits risky AWS IAM Policies
 - This Repo contains a README detailing the project as well as a file containing the python script.
