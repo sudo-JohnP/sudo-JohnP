@@ -9,7 +9,7 @@
 ## 🧑‍💻 Who I am
 
 🔐 Cybersecurity student @ Virginia Tech  
-📜 CompTIA Security+ | AWS Certified Cloud Practitioner | DoD TS Cleared | Cybersecurity Enthusiast  
+📜 CompTIA Security+ | AWS Certified Cloud Practitioner | DoD TS/SCI | Cybersecurity Enthusiast  
 🧠 Lifelong learner with a wide-lens mindset and a love for solving tough problems under pressure  
 
 ---
