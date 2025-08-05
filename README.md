@@ -4,7 +4,7 @@
 
 
 
-# 👋 Hey there, I'm John Parente
+# Welcome to my Github!
 
 ## 🧑‍💻 Who I am
 
@@ -17,7 +17,7 @@
 ## What I'm Working On
 
 - 🎓 Projects to reinforce AWS CCP topics
-- 🐍 Looking to start projects related to Cloud/Security Automation with Python
+- 🐍 Projetcs related to Cloud/Security Automation and scripting with Python
 - ☁️ Continuing to research cloud security fundamentals
 
 ---
@@ -25,7 +25,7 @@
 ## Core Skills & Traits
 
 - **Python** for scripting, automation, data visualization
-- **AWS tools** such as S3, IAM
+- **AWS tools**
 - Excellent under pressure & committed to team success  
 - Highly observant, methodical, and always looking to learning  
 - Willing to do the “dirty work”, never a task beneath me
@@ -39,7 +39,7 @@
 - **Cloud Consulting Roles**
 - **SOC Analyst Roles**
 - **Research Positions**
-- Or any hands-on cybersecurity opportunities where I can grow, contribute, and collaborate
+- Or any hands-on cloud/cybersecurity opportunities where I can grow, contribute, and collaborate
 
 ---
 
