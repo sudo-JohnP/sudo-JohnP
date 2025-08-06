@@ -6,19 +6,20 @@
 
 # Welcome to my Github!
 
-## 🧑‍💻 Who I am
+## Who I am
 
-🔐 Cybersecurity student @ Virginia Tech  
-📜 CompTIA Security+ | AWS Certified Cloud Practitioner | DoD TS/SCI | Cybersecurity Enthusiast  
-🧠 Lifelong learner with a wide-lens mindset and a love for solving tough problems under pressure  
+Senior @ Virginia Tech studying Cybersecurity, Management, and Analytics
+Security+ | AWS Certified | DoD TS/SCI cleared 
+Cloud and Cybersecurity Enthusiast  
+Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
 
 ---
 
 ## What I'm Working On
 
-- 🎓 Projects to reinforce AWS CCP topics
-- 🐍 Projetcs related to Cloud/Security Automation and scripting with Python
-- ☁️ Continuing to research cloud security fundamentals
+- Projects to reinforce AWS CCP topics
+- Projetcs related to Cloud/Security Automation and scripting with Python
+- Continuing to research the cloud security fundamentals
 
 ---
 
@@ -34,18 +35,19 @@
 
 ## Looking For
 
-🎯 Opportunities in:
+Full Time Opportunities in (but not limited to):
 - **Cloud Security Roles**
 - **Cloud Consulting Roles**
 - **SOC Analyst Roles**
 - **Research Positions**
-- Or any hands-on cloud/cybersecurity opportunities where I can grow, contribute, and collaborate
 
 ---
 
 ## 📂 Featured Works
 
-🔗 CloudTrail Log Analyzer with Python (Coming Soon!)
+🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/Cloud-Trail-Log-Analyzer)
+- Built a Python tool that flags suspicious activity in AWS CloudTrail logs, such as logins without MFA or the disabling of security features
+- Includes automated download from S3, .gz extraction, and log parsing logic with clear outputs
 
 🔗 [AWS IAM Policy Audit Script](https://github.com/sudo-JohnP/AWS-IAM-Policy-Audit-Script)
 - Python script that audits risky AWS IAM Policies
