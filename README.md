@@ -8,10 +8,10 @@
 
 ## Who I am
 
-Senior @ Virginia Tech studying Cybersecurity, Management, and Analytics
-Security+ | AWS Certified | DoD TS/SCI cleared 
-Cloud and Cybersecurity Enthusiast  
-Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
+- Senior @ Virginia Tech studying Cybersecurity, Management, and Analytics
+- Security+ | AWS Certified | DoD TS/SCI cleared 
+- Cloud and Cybersecurity Enthusiast  
+- Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
 
 ---
 
