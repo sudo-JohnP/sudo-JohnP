@@ -45,7 +45,7 @@ Full Time Opportunities in (but not limited to):
 
 ## 📂 Featured Works
 
-🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/Cloud-Trail-Log-Analyzer)
+🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/CloudTrail-Log-Analyzer)
 - Built a Python tool that flags suspicious activity in AWS CloudTrail logs, such as logins without MFA or the disabling of security features
 - Includes automated download from S3, .gz extraction, and log parsing logic with clear outputs
 
