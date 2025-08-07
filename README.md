@@ -46,8 +46,10 @@ Full Time Opportunities in (but not limited to):
 ## 📂 Featured Works
 
 🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/CloudTrail-Log-Analyzer)
-- Built a Python tool that flags suspicious activity in AWS CloudTrail logs, such as logins without MFA or the disabling of security features
-- Includes automated download from S3, .gz extraction, and log parsing logic with clear outputs
+- Python script that audits AWS CloudTrail logs for suspicious behavior like console logins without MFA, root activity, and foreign IP access
+- Automatically fetches, decompresses, analyzes, and writes findings to a report file
+- Includes a test log to demonstrate detection of security issues like MFA bypass and credential misuse
+- Highlights skills in AWS (S3, IAM, CloudTrail), Python automation, and cloud security monitoring
 
 🔗 [AWS IAM Policy Audit Script](https://github.com/sudo-JohnP/AWS-IAM-Policy-Audit-Script)
 - Python script that audits risky AWS IAM Policies
