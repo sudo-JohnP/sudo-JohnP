@@ -69,7 +69,7 @@ Full Time Opportunities in (but not limited to):
 
 ---
 
-## 🔐 Ask me about
+## ?? Ask me about
 
 - Any cybersecurity news
 - Fun projects I may be able to contribute to
