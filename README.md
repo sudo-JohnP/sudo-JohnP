@@ -45,6 +45,9 @@ Full Time Opportunities in (but not limited to):
 
 ## 📂 Featured Works
 
+🔗 [AWS Secure Cloud Architecture](https://github.com/sudo-JohnP/aws-secure-cloud-architecture)
+- Coming Soon!
+
 🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/CloudTrail-Log-Analyzer)
 - Python script that audits AWS CloudTrail logs for suspicious behavior like console logins without MFA, root activity, and foreign IP access
 - Automatically fetches, decompresses, analyzes, and writes findings to a report file
