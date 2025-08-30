@@ -10,16 +10,16 @@
 
 - Senior @ Virginia Tech studying Cybersecurity, Management, and Analytics
 - Security+ | AWS Certified | DoD TS/SCI cleared 
-- Cloud and Cybersecurity Enthusiast  
+- Intersted in Cybersecurity, Cloud, Data, Analytics, Consulting
 - Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
 
 ---
 
 ## What I'm Working On
 
-- Projects to reinforce AWS CCP topics
 - Projetcs related to Cloud/Security Automation and scripting with Python
-- Continuing to research the cloud security fundamentals
+- Continuing to research the cloud and security fundamentals
+- Strengthening my analytics skills 
 
 ---
 
@@ -39,6 +39,7 @@ Full Time Opportunities in (but not limited to):
 - **Cloud Security Roles**
 - **Cloud Consulting Roles**
 - **SOC Analyst Roles**
+- **Analyst Roles**
 - **Research Positions**
 
 ---
