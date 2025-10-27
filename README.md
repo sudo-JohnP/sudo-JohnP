@@ -9,45 +9,13 @@
 ## Who I am
 
 - Senior @ Virginia Tech studying Cybersecurity, Management, and Analytics
-- Security+ | AWS Certified | DoD TS/SCI cleared 
+- Security+ | AWS Certified
 - Intersted in Cybersecurity, Cloud, Data, Analytics, Consulting
 - Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
 
 ---
 
-## What I'm Working On
-
-- Projetcs related to Cloud/Security Automation and scripting with Python
-- Continuing to research the cloud and security fundamentals
-- Strengthening my analytics skills 
-
----
-
-## Core Skills & Traits
-
-- **Python** for scripting, automation, data visualization
-- **AWS tools**
-- Excellent under pressure & committed to team success  
-- Highly observant, methodical, and always looking to learning  
-- Willing to do the “dirty work”, never a task beneath me
-
----
-
-## Looking For
-
-Full Time Opportunities in (but not limited to):
-- **Cloud Security Roles**
-- **Cloud Consulting Roles**
-- **SOC Analyst Roles**
-- **Analyst Roles**
-- **Research Positions**
-
----
-
 ## 📂 Featured Works
-
-🔗 [AWS Secure Cloud Architecture](https://github.com/sudo-JohnP/aws-secure-cloud-architecture)
-- Coming Soon!
 
 🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/CloudTrail-Log-Analyzer)
 - Python script that audits AWS CloudTrail logs for suspicious behavior like console logins without MFA, root activity, and foreign IP access
@@ -70,12 +38,3 @@ Full Time Opportunities in (but not limited to):
 ## Connect With Me Via LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-parente/)
-
----
-
-## ?? Ask me about
-
-- Any cybersecurity news
-- Fun projects I may be able to contribute to
-- Any work or growth opportunities
-
