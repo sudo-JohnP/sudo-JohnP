@@ -8,7 +8,7 @@
 
 ## Who I am
 
-- Senior @ Virginia Tech studying Cybersecurity, Management, and Analytics
+- Virginia Tech Alum with a B.S in Cybersecurity, Management, and Analytics
 - Security+ | AWS Certified
 - Intersted in Cybersecurity, Cloud, Data, Analytics, Consulting
 - Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
