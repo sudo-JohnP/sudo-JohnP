@@ -9,13 +9,16 @@
 ## Who I am
 
 - Virginia Tech Alum with a B.S in Cybersecurity, Management, and Analytics
-- Security+ | AWS Certified
-- Intersted in Cybersecurity, Cloud, Data, Analytics, Consulting
+- Cleared | Security+ | AWS Cloud Practitioner
+- Intersted in all things Cloud and Cybersecurity
 - Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
 
 ---
 
 ## 📂 Featured Works
+
+🔗 Coming Soon! 
+- Experimenting with k8s... install, setup, deployment, troubleshooting, etc
 
 🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/CloudTrail-Log-Analyzer)
 - Python script that audits AWS CloudTrail logs for suspicious behavior like console logins without MFA, root activity, and foreign IP access
