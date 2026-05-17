@@ -8,8 +8,9 @@
 
 ## Who I am
 
+- Cloud Support Engineer supporting Google Cloud (GDC)
 - Virginia Tech Alum with a B.S in Cybersecurity, Management, and Analytics
-- Cleared | Security+ | AWS Cloud Practitioner
+- Cleared | Security+ | Google Associate Cloud Engineer | AWS Cloud Practitioner
 - Intersted in all things Cloud and Cybersecurity
 - Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
 
