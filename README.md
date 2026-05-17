@@ -19,7 +19,7 @@
 ## 📂 Featured Works
 
 🔗 Coming Soon! 
-- Experimenting with k8s... install, setup, deployment, troubleshooting, etc
+- Experimenting with AWS and Google Cloud IAM and Governance automations with a focus on securing AI agents
 
 🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/CloudTrail-Log-Analyzer)
 - Python script that audits AWS CloudTrail logs for suspicious behavior like console logins without MFA, root activity, and foreign IP access
