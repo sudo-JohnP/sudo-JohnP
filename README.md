@@ -8,8 +8,9 @@
 
 ## Who I am
 
-- Cloud Support Engineer supporting Google Cloud (GDC)
-- Virginia Tech Alum with a B.S in Cybersecurity, Management, and Analytics
+- Cloud Support Engineer
+- Virginia Tech Alum
+- B.S in Cybersecurity, Management, and Analytics
 - Cleared | Security+ | Google Associate Cloud Engineer | AWS Cloud Practitioner
 - Intersted in all things Cloud and Cybersecurity
 - Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
@@ -19,7 +20,7 @@
 ## 📂 Featured Works
 
 🔗 Coming Soon! 
-- Experimenting with AWS and Google Cloud IAM and Governance automations with a focus on securing AI agents
+- Experimenting with Governance in relation to AI agents in the Cloud
 
 🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/CloudTrail-Log-Analyzer)
 - Python script that audits AWS CloudTrail logs for suspicious behavior like console logins without MFA, root activity, and foreign IP access
