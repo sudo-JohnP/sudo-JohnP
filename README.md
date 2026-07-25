@@ -11,7 +11,7 @@
 - Cloud Support Engineer
 - Virginia Tech Alum
 - B.S in Cybersecurity, Management, and Analytics
-- Cleared | Security+ | Google Associate Cloud Engineer | AWS Cloud Practitioner
+- Cleared | Security+ | Google Associate Cloud Engineer | AWS Solutions Architect - Associate | AWS Cloud Practitioner
 - Intersted in all things Cloud and Cybersecurity
 - Lifelong learner with a growth mindset and a love for solving tough problems under pressure  
 
