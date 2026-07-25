@@ -21,6 +21,11 @@
 
 🔗 Coming Soon! 
 - Experimenting with Governance in relation to AI agents in the Cloud
+- Building in private
+
+🔗 [Secure GovCloud](https://github.com/sudo-JohnP/securegov-cloud)
+- A secure, automated AWS landing zone demonstrating cloud security engineering best practices using infrastructure as code
+- Building in public
 
 🔗 [Cloud Trail Log Analyzer with Python](https://github.com/sudo-JohnP/CloudTrail-Log-Analyzer)
 - Python script that audits AWS CloudTrail logs for suspicious behavior like console logins without MFA, root activity, and foreign IP access
